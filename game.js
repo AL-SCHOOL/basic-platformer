@@ -1,2 +1,5 @@
 function startGame() {
 }
+
+function settings() {
+}
